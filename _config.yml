@@ -1,0 +1,10 @@
+permalink: pretty
+
+plugins:
+  - jemoji
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

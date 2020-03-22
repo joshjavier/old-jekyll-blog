@@ -2,4 +2,4 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-Gemfile.lock        # Avoid conflicts with github-pages dependencies
+Gemfile.lock

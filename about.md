@@ -16,7 +16,7 @@ This project is a work-in-progress, but it's currently in active development, so
 
 Anyway, a few things about me:
 
-- works at Spiralytics as a content strategist
+- works at [Spiralytics](https://www.spiralytics.com/) as a content strategist
 - lives in a small apartment that he's struggling to clean
 - learns coding - namely HTML, CSS, Python, Apps Script, and whatever he finds interesting
 - likes tinkering with spreadsheets

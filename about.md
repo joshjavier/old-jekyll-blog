@@ -5,7 +5,6 @@ title: about
 
 ## **Hi! I'm Josh 👋**  
 
-{% avatar joshjavier size=200 %}  
 <small><sup>I'm the human behind Cassie the poodle</sup></small>
 
 Welcome to my blog.

@@ -21,4 +21,4 @@ Anyway, a few things about me:
 - likes tinkering with spreadsheets
 - loves cats but has yet to be a hooman to one
 
-Want to chat? You can tweet me [@joshjavierr](https://twitter.com/joshjavierr/) or send me an email at joshjavier [at] gmail [dot] com.
+Want to chat? You can tweet me [@joshjavierr](https://twitter.com/joshjavierr/) or send me an email at joshjavier12 [at] gmail [dot] com.

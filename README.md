@@ -4,7 +4,7 @@ where I think, play around, and write about writing, coding, and life.
 
 Built with [Jekyll](https://jekyllrb.com/).
 Hosted on this repository via [GitHub Pages](https://pages.github.com/).
-Theme by [heiswayi](https://github.com/heiswayi/the-plain)
+Theme by [heiswayi](https://github.com/heiswayi/the-plain).
 
 ## Features
 

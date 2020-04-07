@@ -1,6 +1,21 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
 ---
 
 @import 'main';
 @import 'syntax';
+
+nav {
+    a {
+        display: inline-block;
+        padding: .2em .8em;
+        &:hover {
+            background: yellow;
+            transition: ease .3s;
+        }
+    }
+}
+
+.current {
+    font-weight: bold;
+    pointer-events: none;
+}

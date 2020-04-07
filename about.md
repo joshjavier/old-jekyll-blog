@@ -1,11 +1,11 @@
 ---
 layout: page
-title: about
+title: about me
 ---
 
 ## **Hi! I'm Josh 👋**  
 
-<small><sup>I'm the human behind Cassie the poodle</sup></small>
+<small><sup>(I'm the human behind Cassie the poodle)</sup></small>
 
 Welcome to my blog.
 

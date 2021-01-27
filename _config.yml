@@ -5,7 +5,7 @@ author_name:        Josh Javier
 logo_url:           https://avatars0.githubusercontent.com/u/46987872?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://joshjavier.com
+url:                https://joshjavier.github.io
 baseurl:            ""
 permalink:          pretty
 timezone:           Asia/Manila

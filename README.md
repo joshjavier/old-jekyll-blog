@@ -1,4 +1,4 @@
-# [This is my blog](https://joshjavier.com/)
+# [This is my blog](https://joshjavier.github.io/)
 
 where I think, play around, and write about writing, coding, and life.
 
